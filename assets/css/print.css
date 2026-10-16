@@ -1,0 +1,30 @@
+/* Loaded with media="print": only the invoice sheet should appear on paper. */
+@page { size: A4; margin: 12mm; }
+
+@media print {
+    .sidebar,
+    .sidebar-backdrop,
+    .topbar,
+    .app-footer,
+    .breadcrumb-nav,
+    .alert,
+    .no-print,
+    .modal {
+        display: none !important;
+    }
+
+    html, body { background: #fff !important; background-image: none !important; color: #000 !important; }
+    .main-wrapper { margin-left: 0 !important; }
+    .content-area { padding: 0 !important; }
+
+    .invoice-sheet {
+        border-top: 0 !important;
+        box-shadow: none !important;
+        border: 0 !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .table { border-color: #000 !important; }
+    .table thead th { background: #f0f0f0 !important; color: #000 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    a { color: #000 !important; text-decoration: none !important; }
+}

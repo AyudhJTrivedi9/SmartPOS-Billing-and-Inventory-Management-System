@@ -1,0 +1,52 @@
+[2026-10-15 23:03:22] PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\smartpos\config\database.php:26
+[2026-10-15 23:04:44] PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\smartpos\config\database.php:26
+[2026-10-15 23:04:50] PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\smartpos\config\database.php:26
+[2026-10-15 23:04:54] PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\smartpos\config\database.php:26
+[2026-10-15 23:05:21] PDOException: SQLSTATE[HY000] [1049] Unknown database 'smartpos_db' in C:\xampp\htdocs\smartpos\config\database.php:26
+[2026-10-15 23:05:21] PDOException: SQLSTATE[HY000] [1049] Unknown database 'smartpos_db' in C:\xampp\htdocs\smartpos\config\database.php:26
+[2026-10-15 23:05:21] PDOException: SQLSTATE[HY000] [1049] Unknown database 'smartpos_db' in C:\xampp\htdocs\smartpos\config\database.php:26
+[2026-10-15 23:05:21] PDOException: SQLSTATE[HY000] [1049] Unknown database 'smartpos_db' in C:\xampp\htdocs\smartpos\config\database.php:26
+[2026-10-15 23:05:23] PDOException: SQLSTATE[HY000] [1049] Unknown database 'smartpos_db' in C:\xampp\htdocs\smartpos\config\database.php:26
+[2026-10-15 23:05:24] PDOException: SQLSTATE[HY000] [1049] Unknown database 'smartpos_db' in C:\xampp\htdocs\smartpos\config\database.php:26
+[2026-10-16 10:02:23] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\invoice_functions.php:245
+[2026-10-16 10:02:27] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\report_functions.php:177
+[2026-10-16 10:03:12] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\invoice_functions.php:245
+[2026-10-16 10:03:15] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\report_functions.php:177
+[2026-10-16 10:03:25] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\invoices\index.php:53
+[2026-10-16 10:03:29] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\invoices\index.php:53
+[2026-10-16 10:03:32] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\report_functions.php:177
+[2026-10-16 10:03:41] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\report_functions.php:177
+[2026-10-16 10:05:32] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\report_functions.php:177
+[2026-10-16 10:05:37] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\invoices\index.php:53
+[2026-10-16 10:05:40] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\report_functions.php:177
+[2026-10-16 10:05:49] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\report_functions.php:177
+[2026-10-16 10:05:50] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\report_functions.php:177
+[2026-10-16 10:08:11] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\report_functions.php:177
+[2026-10-16 10:16:10] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\report_functions.php:177
+[2026-10-16 10:17:18] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\includes\report_functions.php:177
+[2026-10-16 10:17:23] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_method' in 'field list' in C:\xampp\htdocs\smartpos\invoices\index.php:53
+[16-Oct-2026 11:06:11 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 11:06:14 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 11:06:16 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 11:06:17 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 11:06:18 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[2026-10-16 11:06:26] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smartpos_db.customers' doesn't exist in C:\xampp\htdocs\smartpos\includes\customers.php:12
+[2026-10-16 11:06:26] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smartpos_db.customers' doesn't exist in C:\xampp\htdocs\smartpos\includes\customers.php:12
+[2026-10-16 11:06:26] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smartpos_db.customers' doesn't exist in C:\xampp\htdocs\smartpos\includes\customers.php:12
+[2026-10-16 11:06:27] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smartpos_db.customers' doesn't exist in C:\xampp\htdocs\smartpos\includes\customers.php:12
+[2026-10-16 11:06:27] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smartpos_db.customers' doesn't exist in C:\xampp\htdocs\smartpos\includes\customers.php:12
+[2026-10-16 11:06:27] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'smartpos_db.customers' doesn't exist in C:\xampp\htdocs\smartpos\includes\customers.php:12
+[16-Oct-2026 12:10:00 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:04 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:04 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:04 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:50 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:50 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:50 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:50 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:51 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:51 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:54 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:55 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:10:55 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
+[16-Oct-2026 12:11:42 Asia/Kolkata] PHP Fatal error:  strict_types declaration must be the very first statement in the script in C:\xampp\htdocs\smartpos\includes\customers.php on line 3
