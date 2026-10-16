@@ -1,3 +1,6 @@
+#Screenshorts
+<img width="1920" height="1080" alt="16_Best_Selling_Product" src="https://github.com/user-attachments/assets/6caf5781-df75-41bb-92d6-3c0ac44753c2" />
+
 # SmartPOS – Product & Billing Management System
 
 A Core PHP 8.1+ / MySQL 8 / Bootstrap 5 application for product management and
